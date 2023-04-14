@@ -1,5 +1,7 @@
 # LGPS data & files
 
+See training/validation data in the tar file. We do not train to the 2000K configurations.
+
 ### Test set
 
 `test-set` : Directory with 300 snapshots from a 600 K LGPS simulation. In total there were 30k
